@@ -1,0 +1,10 @@
+# originally this was developed with parallelpython==1.6.4 
+# pp==1.6.4 can still be downloaded from their site, but can't
+# be installed via pip. As such, I'll leave this floating requirement here
+pp
+
+
+# Also, this project is supposed to use wxPython
+# I however don't remember the version I used ~4 years ago.
+# Also, `pip install wxpython` didn't work right off he bat, so that's 
+# where I left it. Enough to know that the project requires wxPython for now..

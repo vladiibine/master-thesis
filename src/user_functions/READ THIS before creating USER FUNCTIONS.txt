@@ -1,0 +1,1 @@
+When creating input/ output functions, ALWAYS define these as the first parameters of the functions
